@@ -6,6 +6,3 @@
 *   Erlang
 ![](images/erlang.png)
 
-*   Lua
-![](images/lua.png)
-
